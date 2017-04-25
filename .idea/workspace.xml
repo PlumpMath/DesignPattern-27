@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6247ddb4-68f0-41cb-b4b3-a654e576a8a1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/AbstractHumanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/BlackHuman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/Human.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/HumanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/NvWa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/WhiteHuman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/FactoryPattern/CreateHuman/YellowHuman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/SingletonPattern/FullSingleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/SingletonPattern/MoreSingleton/Emperor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/SingletonPattern/MoreSingleton/Minister.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/chenziqiang/SingletonPattern/Singleton.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern.iml" afterPath="$PROJECT_DIR$/DesignPattern.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/AbstractHumanFactory.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/AbstractHumanFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/BlackHuman.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/BlackHuman.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/Human.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/Human.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/HumanFactory.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/HumanFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/WhiteHuman.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/WhiteHuman.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/YellowHuman.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/NvWaDemo/YellowHuman.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteCreator.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteCreator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteProduct1.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteProduct1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteProduct2.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteProduct2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/Creator.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/Creator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/Product.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/Product.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Singleton/Emperor.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Singleton/Emperor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Singleton/Singleton.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Singleton/Singleton.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Singleton/SingletonFull.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Singleton/SingletonFull.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/design/Singleton/SomeEmpertor.java" afterPath="$PROJECT_DIR$/src/Java/com/design/Singleton/SomeEmpertor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Java/com/reflection/ReflectionTest.java" afterPath="$PROJECT_DIR$/src/Java/com/reflection/ReflectionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test/com/design/Factory/Client.java" afterPath="$PROJECT_DIR$/src/Test/com/design/Factory/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test/com/design/Factory/NvWa.java" afterPath="$PROJECT_DIR$/src/Test/com/design/Factory/NvWa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test/com/design/Singleton/Minterister.java" afterPath="$PROJECT_DIR$/src/Test/com/design/Singleton/Minterister.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test/com/design/Singleton/SingletonTest.java" afterPath="$PROJECT_DIR$/src/Test/com/design/Singleton/SingletonTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +29,18 @@
     <favorites_list name="DesignPattern" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,7 +84,6 @@
         <option value="$PROJECT_DIR$/src/com/chenziqiang/FactoryPattern/SingletonFactory/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/chenziqiang/FactoryPattern/SingletonFactory/SingletonFactory.java" />
         <option value="$PROJECT_DIR$/src/com/chenziqiang/FactoryPattern/LazyFactory/ProductFactory.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/chenziqiang/_3_AbstractFactoryPattern/Human.java" />
         <option value="$PROJECT_DIR$/src/Java/com/design/Sigleton.java" />
         <option value="$PROJECT_DIR$/src/Java/com/design/SingletonFull.java" />
@@ -133,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/Product.java" />
         <option value="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteProduct1.java" />
         <option value="$PROJECT_DIR$/src/Java/com/design/Factory/Pattern/ConcreteProduct2.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -751,12 +729,12 @@
       <workItem from="1492434807604" duration="390000" />
       <workItem from="1492520320612" duration="1498000" />
       <workItem from="1493026254681" duration="9552000" />
-      <workItem from="1493083922557" duration="3076000" />
+      <workItem from="1493083922557" duration="3200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39593000" />
+    <option name="totallyTimeSpent" value="39717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -769,6 +747,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49713057" order="6" side_tool="false" content_ui="tabs" />
@@ -778,9 +757,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837528" sideWeight="0.48852223" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27459955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32837528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23055555" sideWeight="0.47482836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23055555" sideWeight="0.47482836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -887,14 +866,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenziqiang/_2_FactoryPattern/CreateHuman/BlackHuman.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chenziqiang/_2_FactoryPattern/CreateHuman/AbstractHumanFactory.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenziqiang/_3_AbstractFactoryPattern/Human.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/com/design/Singleton/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1057,6 +1028,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
