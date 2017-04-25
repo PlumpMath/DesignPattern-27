@@ -1,4 +1,4 @@
-package com.design;
+package com.design.Singleton;
 
 public class SingletonTest
 {

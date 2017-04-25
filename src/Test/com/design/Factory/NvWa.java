@@ -1,6 +1,6 @@
-package com.design.Singleton;
+package com.design.Factory;
 
-import com.design.Factory.*;
+import com.design.Factory.NvWaDemo.*;
 
 public class NvWa
 {

@@ -1,15 +1,24 @@
-package com.design;
+package com.design.Singleton;
 
 public class SingletonFull
 {
-    private final static SingletonFull singletonFull = null;
+    private static SingletonFull singletonFull = null;
 
-    public SingletonFull getSingletonFull()
+    private SingletonFull()
+    {
+    }
+
+    public static synchronized SingletonFull getSingletonFull()
     {
         if (singletonFull == null)
         {
-            return new SingletonFull();
+            singletonFull = new SingletonFull();
         }
         return singletonFull;
+    }
+
+    public static void doSomething()
+    {
+        //...
     }
 }

@@ -1,4 +1,4 @@
-package com.design.Factory.Demo;
+package com.design.Factory.NvWaDemo;
 
 public class HumanFactory extends AbstractHumanFactory
 {
