@@ -1,4 +1,4 @@
-package com.design.Command;
+package com.design.Command.Group;
 
 public abstract class Command
 {

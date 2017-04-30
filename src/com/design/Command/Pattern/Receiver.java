@@ -1,5 +1,6 @@
 package com.design.Command.Pattern;
 
-public class Receiver
+public abstract class Receiver
 {
+    public abstract void doSomething();
 }

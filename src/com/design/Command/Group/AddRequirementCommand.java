@@ -1,4 +1,4 @@
-package com.design.Command;
+package com.design.Command.Group;
 
 public class AddRequirementCommand extends Command
 {
@@ -7,6 +7,8 @@ public class AddRequirementCommand extends Command
     {
         super.rg.find();
         super.rg.add();
+        super.pg.add();
+        super.cg.add();
         super.rg.plan();
     }
 }

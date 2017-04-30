@@ -1,4 +1,4 @@
-package com.design.Command;
+package com.design.Command.Group;
 
 public abstract class Group
 {
@@ -11,4 +11,9 @@ public abstract class Group
     public abstract void change();
 
     public abstract void plan();
+
+    public void rollBack()
+    {
+
+    }
 }
